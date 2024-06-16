@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TaskManagerCompleteScreen</string>
+    <string name="text_success">All tasks completed</string>
+    <string name="text_complement">Nice work!</string>
 </resources>
